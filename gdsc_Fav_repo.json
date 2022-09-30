@@ -1,64 +1,158 @@
 [ 
     {
-
-     "id":0,
+    "id":0,
     "location": "sangli",    
     
 
     "fav_things":[
         { "id":0,
         "name": "Sameer Karemore",
-        "food":"vadapav",
-        "place": "vishrambaag",
-        "shops": "foodlab",
-        "mall":"Eternity",
-        "restuarant":"ajva",
+        "food":"Vadapav",
+        "place": "Vishrambaag",
+        "shops": "Ultimate collections",
+        "mall":"Eternity Mall",
+        "restuarant":"Ajwa",
         "date":"30/9/2022"
        },
        { "id":1,
-        "name": "Sameer Karemore",
-        "food":"misad pav",
-        "place": "vishrambaag",
-        "shops": "moodlab",
-        "mall":"titernity",
-        "restuarant":"bhajva",
+        "name": "Anshul Geed",
+        "food":"misal pav",
+        "place": "miraj",
+        "shops": "Unique gift shop",
+        "mall":"SFC Megaa mall",
+        "restuarant":"Hotel Madhuban",
+        "date":"29/9/2022"
+       },
+       { "id":2,
+        "name": "Avishka Pashine",
+        "food":"paneer tikka",
+        "place": "Chandoli National Park",
+        "shops": "Arihant Gift Shopee",
+        "mall":"Aurum",
+        "restuarant":"Hotel Great Maratha",
         "date":"29/9/2022"
        }
-      ]
-
-
-    },
+    ]
+},
 
     {
-
-        "id":1,
+       "id":1,
        "location": "delhi",    
        
    
        "fav_things":[
            { "id":0,
-           "name": "Nirmit",
+           "name": "Nirmit Singh",
            "food":"chole bhature",
            "place": "karol bagh",
-           "shops": "",
-           "mall":"Eternity",
-           "restuarant":"ajva",
+           "shops": "Santushti Shopping Complex",
+           "mall":"Ambience mall",
+           "restuarant":"The GT road",
            "date":"30/9/2022"
           },
           { "id":1,
-           "name": "Nirmit",
-           "food":"chole kulche",
-           "place": "krishna nagar",
-           "shops": "moodlab",
-           "mall":"titernity",
-           "restuarant":"ajva",
+           "name": "Devyani Patil",
+           "food":"Alfredo Pasta",
+           "place": "India gate",
+           "shops": "Fineshop",
+           "mall":"The Chanakya",
+           "restuarant":"Dilli 32",
+           "date":"29/9/2022"
+          },
+          { "id":2,
+           "name": "Ravi Patil",
+           "food":"Dabeli",
+           "place": "Red Fort",
+           "shops": "Lifestyle Stores",
+           "mall":"V3S mall",
+           "restuarant":"Tamra Restaurant",
            "date":"29/9/2022"
           }
+
+        ]
+   
+   
+    },
+    {
+        "id":2,
+        "location": "agra",    
+        
+    
+        "fav_things":[
+            { "id":0,
+            "name": "Kangana Oberoi",
+            "food":"Dosa",
+            "place": "Taj mahal",
+            "shops": "The Warehouse of Gifts & Souvenirs",
+            "mall":"Ashok Cosmos Mall",
+            "restuarant":"Pind Balluchi",
+            "date":"18/9/2022"
+           },
+           { "id":1,
+            "name": "Koyal Patil",
+            "food":"Noodles",
+            "place": "Itmad-ud-Daula",
+            "shops": "Ximi Vogue",
+            "mall":"TDI mall",
+            "restuarant":"Daawat-E-Nawab",
+            "date":"29/9/2022"
+           },
+           { "id":2,
+            "name": "Amit Gour",
+            "food":"Manchurian balls",
+            "place": "Chini Ka Rauza",
+            "shops": "Preetam Store",
+            "mall":"Aparna Mall",
+            "restuarant":"Desi Cafe Agra",
+            "date":"29/9/2022"
+           }
+ 
          ]
-   
-   
-       }
+    
+    
+     },
+
+     {
+        "id":2,
+        "location": "mumbai",    
+        
+    
+        "fav_things":[
+            { "id":0,
+            "name": "Harsha Tickoo",
+            "food":"Rice",
+            "place": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+            "shops": "Heera Panna Shopping Center",
+            "mall":"Oberoi Mall",
+            "restuarant":"Ziya Restaurant",
+            "date":"9/9/2022"
+           },
+           { "id":1,
+            "name": "Avishka Geed",
+            "food":"Chicken roll",
+            "place": "Sanjay Gandhi National Park",
+            "shops": "New Hindmata Cloth Market",
+            "mall":"Phoenix Palladium",
+            "restuarant":"Ummrao",
+            "date":"29/9/2022"
+           },
+           { "id":2,
+            "name": "Tarqui kamal",
+            "food":"Chicken masala",
+            "place": "Haji Ali Dargah",
+            "shops": "Mangaldas Market",
+            "mall":"Infiniti Mall",
+            "restuarant":"Yauatcha Mumbai",
+            "date":"29/9/2022"
+           }
+ 
+         ]
+    
+    
+     }
+
 ]
+
 
 
  
